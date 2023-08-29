@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Haylemicheal Berihun</h1>
-<h3 align="center">A passionate data engineer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Haylemicheal</h1>
+<h3 align="center">A passionate software engineer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haylemicheal&label=Profile%20views&color=0e75b6&style=flat" alt="haylemicheal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haylemicheal" alt="haylemicheal" /></a> </p>
 
-- 🔭 I’m currently working on **data engineering projects**
-
-- 🌱 I’m currently learning **cloud development**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@haylemicheal.mekonnen](https://medium.com/@haylemicheal.mekonnen)
 
-- 💬 Ask me about **java, python, machine learning and data engineering**
+- 💬 Ask me about **python, machine learning, data engineering, and java**
 
 - 📫 How to reach me **haylemicheal.mekonnen@gmail.com**
 
