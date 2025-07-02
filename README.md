@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Haylemicheal</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">An Experienced Full-Stack Developer and ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haylemicheal&label=Profile%20views&color=0e75b6&style=flat" alt="haylemicheal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haylemicheal" alt="haylemicheal" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **AI Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@haylemicheal.mekonnen](https://medium.com/@haylemicheal.mekonnen)
 
-- 💬 Ask me about **python, machine learning, data engineering, and java**
+- 💬 Feel free to ask me anything about **Python, machine learning, data engineering, large language models, RAGs, chatbots, MCP, or any other AI-related topic.**
 
 - 📫 How to reach me **haylemicheal.mekonnen@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
