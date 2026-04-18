@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Building **AI-powered systems and scalable ML applications**
 - 🧠 Focus: **LLMs, RAG pipelines, AI agents, data engineering, backend systems**
