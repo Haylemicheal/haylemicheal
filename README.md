@@ -43,38 +43,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="left">
-
-### 💻 Frontend
-- React
-- Vue.js
-- Redux
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- Python
-
-### 🤖 AI / ML
-- PyTorch
-- TensorFlow
-- OpenCV
-
-### ☁️ DevOps / Infrastructure
-- Docker
-- Kubernetes
-- Git
-
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p>
