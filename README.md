@@ -23,26 +23,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-<div align="left">
-
-  <a href="https://linkedin.com/in/haylemicheal-berihun-a20320aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://stackoverflow.com/users/14929045" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://medium.com/@haylemicheal.mekonnen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
-  </a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p>
